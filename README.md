@@ -1,13 +1,13 @@
 ## _Fabio Velasquez_
 **fabiov4177@hstat.org**
 **High School of Telecommunications Arts and Technology**
-
+---
 I live in Brooklyn, New York
 I like to play sports such as
-Basketball
-Football
-Baseball
-and Track
+- Basketball
+- Football
+- Baseball
+- Track
 My Schedule is:
 1. Software
 2. Gym
