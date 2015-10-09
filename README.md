@@ -1,6 +1,7 @@
-Fabio Velasquez
-fabiov4177@hstat.org
-High School of Telecommunications Arts and Technology
+## _Fabio Velasquez_
+**fabiov4177@hstat.org**
+**High School of Telecommunications Arts and Technology**
+
 I live in Brooklyn, New York
 I like to play sports such as
 Basketball
